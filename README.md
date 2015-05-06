@@ -1,2 +1,9 @@
 # dragonfly-lamp
-This is the docker files for building a dragonfly lamp stack for development.
+
+This is the lamp stack for dragonfly. Based on CentOS 7, it contains:
+
+  - httpd 
+  - php 
+  - mariadb 
+  - tomcat
+
